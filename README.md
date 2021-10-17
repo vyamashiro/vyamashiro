@@ -1,6 +1,6 @@
 <h2 align="center">  Olá, sou o Shiro ! </h2>
 
-Sou um desenvolvedor web estudando todos os dias para ser cada dia melhor.
+Sou um desenvolvedor web estudando todos os dias para ser cada vez melhor.
 <ul>
  <li>💻 Desenvolvedor web na Eureka Digital;</li>
  <li>📚 Estudando mais afundo Typescript;</li>
@@ -23,5 +23,5 @@ Sou um desenvolvedor web estudando todos os dias para ser cada dia melhor.
 
 <h2 align="center"> :speech_balloon: Contato </h2>
 <p> Caso deseje conversar ou precise de ajude, pode me chamar! 👍 </p>
-<a href = "https://www.linkedin.com/in/vyamashiro/"><img src="https://img.shields.io/badge/-vyamashiro-blue?style=flat&logo=Linkedin&logoColor=white)"/></a>
+<a href = "https://www.linkedin.com/in/vyamashiro/"><img alt="atalho Linkedin Vyamashiro" src="https://img.shields.io/badge/-vyamashiro-blue?style=flat&logo=Linkedin&logoColor=white)"/></a>
  
