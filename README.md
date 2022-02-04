@@ -3,7 +3,7 @@
 Sou um desenvolvedor web estudando todos os dias para ser cada vez melhor.
 <ul>
  <li>💻 Desenvolvedor web na Eureka Digital;</li>
- <li>📚 Estudando mais afundo Typescript;</li>
+ <li>📚 Estudando Typescript;</li>
  <li>🎯 Minha meta atual é ser um desenvolvedor Full Stack;</li>
  <li>🍺 Gosto de uma cervejinha e de trocar ideias sobre programação;</li>
  <li>🎮 Jogo Xadrez e atualmente estou aprendendo a jogar CS GO (além de assistir os campeonatos).</li>
