@@ -1,14 +1,13 @@
-<h2 align="center">  Olá, sou o Yamashiro ! </h2>
+<h2 align="center">  Hi, I am Yamashiro ! </h2>
 
-Sou um desenvolvedor web estudando todos os dias para ser cada vez melhor.
+I'm a web developer studying every day to be better.
 <ul>
- <li>💻 Desenvolvedor web na Eureka Digital;</li>
- <li>🎯 Minha meta atual é ser um desenvolvedor Full Stack;</li>
- <li>🍺 Gosto de uma cervejinha e de trocar ideias sobre programação;</li>
- <li>🎮 Gosto de assistir campeonatos de CS GO e jogar de vez enquando.</li>
+ <li>💻 Web developer at Eureka Digital;</li>
+ <li>🍺 I like beer and exchange ideas about programming;</li>
+ <li>🎮 I like to watch CS GO championships and play sometimes.</li>
 </ul>
   
-<h2 align="center"> :hammer_and_wrench: Linguagens e Tecnologias </h2>
+<h2 align="center"> :hammer_and_wrench: Technologies </h2>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,7 +19,7 @@ Sou um desenvolvedor web estudando todos os dias para ser cada vez melhor.
   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-<h2 align="center"> :speech_balloon: Contato </h2>
-<p> Caso deseje conversar ou precise de ajude, pode me chamar! 👍 </p>
+<h2 align="center"> :speech_balloon: Contact </h2>
+<p> If you want to talk or need help, you can call me! 👍 </p>
 <a href = "https://www.linkedin.com/in/vyamashiro/"><img alt="atalho Linkedin Vyamashiro" src="https://img.shields.io/badge/-vyamashiro-blue?style=flat&logo=Linkedin&logoColor=white)"/></a>
  
