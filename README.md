@@ -19,6 +19,13 @@ I'm a web developer studying every day to be better.
   <img src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=vyamashiro&show_icons=true&locale=en&layout=compact&theme=dracula"
+    alt="vyamashiro"
+  />
+</p>
+
 <h2 align="center"> :speech_balloon: Contact </h2>
 <p> If you want to talk or need help, you can call me! 👍 </p>
 <a href = "https://www.linkedin.com/in/vyamashiro/"><img alt="atalho Linkedin Vyamashiro" src="https://img.shields.io/badge/-vyamashiro-blue?style=flat&logo=Linkedin&logoColor=white)"/></a>
