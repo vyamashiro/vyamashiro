@@ -1,8 +1,9 @@
 <h2 align="center">  Hi, I am Yamashiro ! </h2>
 
-I'm a web developer studying every day to be better.
+I'm a software developer studying every day to be better.
+
 <ul>
- <li>💻 Web developer at Eureka Digital;</li>
+ <li>💻 +2 years of experience as a Software Developer ;</li>
  <li>🍺 I like beer and exchange ideas about programming;</li>
  <li>🎮 I like to watch CS GO championships and play sometimes.</li>
 </ul>
