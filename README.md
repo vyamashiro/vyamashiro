@@ -26,7 +26,7 @@ I'm a software developer studying every day to be better.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=vyamashiro&show_icons=true&locale=en&layout=compact&theme=dracula"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vyamashiro&theme=react&line_height=40&hide=css&layout=compact"
     alt="vyamashiro"
   />
 </p>
