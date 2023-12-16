@@ -3,7 +3,7 @@
 I'm a software developer studying every day to be better.
 
 <ul>
- <li>💻 3 years of experience as a Software Developer;</li>
+ <li>💻 +3 years of experience as a Software Developer;</li>
  <li>🍺 I like beer and exchange ideas about programming;</li>
  <li>🎮 I like to watch CS GO championships and play sometimes.</li>
 </ul>
