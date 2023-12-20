@@ -1,11 +1,13 @@
 # Hi, I am Yamashiro !
 
 I am a software engineer studying every day to be better.<br><br>
-💻 +3 years of experience as a Software Developer;<br>🍺 I like beer and exchange ideas about programming;<br>
-🎮 I like to watch CS GO championships.
+💻 +3 years of experience as a Software Developer<br>
+📖 I like Japanese philosophy<br>
+🙂 I am optimistic!<br>
+🍺 Let's have a pint and talk about programming and technology.<br>
 
 ## :speech_balloon: Contact:
-If you want to talk or need help, you can call me! 👍
+If you want to talk or need help, you can call me! 👍<br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyamashiro) 
 
 # 💻 Tech Stack:
@@ -26,10 +28,10 @@ If you want to talk or need help, you can call me! 👍
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+<!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 
