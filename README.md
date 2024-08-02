@@ -1,7 +1,7 @@
 # Hi, I am Yamashiro !
 
-I am a software engineer studying and coding every day to build the applications of my dreams.<br><br>
-💻 +3 years of experience as a Software Developer<br>
+A software engineer studying and coding every day to build the applications of my dreams.<br><br>
+💻 Almost 4 years of experience as a Software Developer<br>
 📖 I like Japanese philosophy<br>
 🙂 I am optimistic!<br>
 🍺 Let's have a pint and talk about programming and technology.<br>
@@ -36,5 +36,5 @@ I am a software engineer studying and coding every day to build the applications
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vyamashiro&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## :speech_balloon: Contact:
-If you want to talk or need help, you can call me! 👍<br><br>
+Wanna talk? You can find my contact details below! <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vyamashiro) 
