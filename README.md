@@ -4,7 +4,6 @@ A software engineer studying and coding every day to build the applications of m
 💻 Nearly 4 years of experience as a Software Developer<br>
 📖 I like Japanese philosophy<br>
 🙂 I am optimistic!<br>
-🍺 Let's have a pint and talk about programming and technology.<br>
 
 # 💻 Tech Stack:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
