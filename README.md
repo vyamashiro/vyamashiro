@@ -1,7 +1,7 @@
 # Hi, I am Yamashiro !
 
 A software engineer studying and coding every day to build the applications of my dreams.<br><br>
-💻 Nearly 4 years of experience as a Software Developer<br>
+💻 +4 years of experience as a Software Developer<br>
 📖 I like Japanese philosophy<br>
 🙂 I am optimistic!<br>
 
